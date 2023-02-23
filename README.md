@@ -1,4 +1,4 @@
-# bathroom_locator
+Bathroom Locator application
 
 A Bathroom Locator/ Reviewer app written in Dart/Flutter currently released on the Google Play Store. Uses geo coding to retrieve the nearest bathrooms to the users current location.
 
